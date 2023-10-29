@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# *Profession Summary*
+# *Professional Summary*
 
 Possess a versatile background encompassing roles in both Service and Product-focused organizations, fostering a keen awareness of the contrasts and complexities inherent in handling external products versus proprietary ones.
 - 13+ years of exemplary experience in leadership, delivery management, and software development. 
@@ -21,14 +21,15 @@ Skills Summary
 - Project Management
 - Delivery Management
 
-## upgrade-Course
+# AI and ML
+## 1. upgrade-Course
 
 This Upgrad AI ML course repository forked from their account to complete the assignment
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohitdb7/upgrade-Course)
 
 # Golang
-## Banking application
+## 1. Banking application
 
 This application contains code to authenticate, add, delete and update user profile. It use authToken to authorise the user
 
