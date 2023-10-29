@@ -21,8 +21,15 @@ Skills Summary
 - Project Management
 - Delivery Management
 
-# upgrade-Course
+## upgrade-Course
 
 This Upgrad AI ML course repository forked from their account to complete the assignment
 
-[![View on Github]](https://github.com/mohitdb7/upgrade-Course)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mohitdb7/upgrade-Course)
+
+# Golang
+## Banking application
+
+This application contains code to authenticate, add, delete and update user profile. It use authToken to authorise the user
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/mohitdb7/upgrade-Course](https://github.com/mohitdb7/golang/tree/main/02-banking-hexagonal-architecture)https://github.com/mohitdb7/golang/tree/main/02-banking-hexagonal-architecture)
